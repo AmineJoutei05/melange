@@ -2,7 +2,7 @@
   "name": "melange",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AmineJoutei05.github.io/melange",
+  "homepage": "https://AmineJoutei05.github.io/",
   "dependencies": {
     "@apollo/client": "^3.0.0-beta.43",
     "@apollo/link-ws": "^2.0.0-beta.3",
